@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.egg-info/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Database
+*.db
+*.sqlite
+
+# Environment
+.env
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# AI Models (too large for git)
+*.gguf
+*.bin
+models/

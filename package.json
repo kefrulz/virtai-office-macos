@@ -1,0 +1,9 @@
+{
+  "name": "virtuai-office",
+  "version": "1.0.0",
+  "description": "Complete AI development team - Optimized for Apple Silicon",
+  "keywords": ["ai", "automation", "apple-silicon", "ollama", "local-llm"],
+  "author": "Ovidiu Ciurila <kefrulz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/kefrulz/virtuai-office"
+}
